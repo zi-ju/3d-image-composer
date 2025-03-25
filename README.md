@@ -10,7 +10,7 @@ sdk_version: 4.44.1
 This project generates stereoscopic 3D images by overlaying a segmented person onto left and right background images with adjustable position, scale, and depth-based disparity. It creates an anaglyph image for red-cyan 3D visualization.
 
 ## Demo
-Gradio link
+[Gradio link](https://huggingface.co/spaces/zoeyziz/3D_Image_Composer)
 
 ## Features
 1. **Select Background Image**
